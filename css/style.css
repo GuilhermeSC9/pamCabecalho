@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body{
+    font-family: 'Fredoka One', cursive;
+    background: url('../img/zed.jpg')
+}
+
+.mt-n5 {
+    margin-top: -3rem !important;
+  }
+
+.bg-header{
+  background: url('../img/zed.jpg')
+}
+
+  .bg-gray{
+    background: #B3B0B0;
+  }
+  .mt-n5 {
+    margin-top: -3rem !important;
+  }
+
+  .jumbotron{
+      background:none;
+  }
+  .jumbotron h1 {
+      font-size: 5rem;
+  }
+
+  .jumbotron p {
+      font-size: 2rem;
+  }
+  
+  .navbar{
+      background:rgba(0, 0, 0, 0.36)
+  }
